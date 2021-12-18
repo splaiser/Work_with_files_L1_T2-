@@ -66,6 +66,3 @@ def get_sorted():
 
 
 get_sorted()
-
-def sort_lines():
-    pass
